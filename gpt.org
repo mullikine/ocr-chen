@@ -66,6 +66,7 @@ Temperature 0.3
   insertion: off
 #+END_SRC
 
+*** Result
 #+BEGIN_SRC text :f penf -u pf-correct-the-results-of-ocr/1 -n :async :results verbatim code
   son off ihbos n davolbetiassss
   55:1 Bay and ngmtthes go abo
@@ -92,17 +93,18 @@ live? art thou the LORD that hath
 brought us up out of Egypt?
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
-  3:8 But cruy.|) nit ooverth ‘ht socit 6f ©
+  3:8 But cruy.|) nit ooverth ?ht socit 6f ?
   mgyhilly wa cst feacknb' me ram
-  makect thire bahpiere liv -verna— ©
+  makect thire bahpiere liv -verna? ?
   5:23 Tiineice rin :h baitestias spas
   at is hoinesom and uinte the st
   ite witat heneosm==
   hee, and viil commmonre wihrtthee
-  9:10 énd heapsie:, wie ey vee ehsreciii tyf
+  9:10 ?nd heapsie:, wie ey vee ehsreciii tyf
   ting liteite
-  Mhenuwe fmareeshoirns ‘il tihame
+  Mhenuwe fmareeshoirns ?il tihame
   ORES
   s with. din; a od Gamesth
 #+END_SRC
@@ -140,6 +142,7 @@ all their abominations, and all their
 sins
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   2:25 For David spealethcomeerming b
   eth
@@ -165,6 +168,7 @@ with nirsfdnsmwem=
 home win
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   10:12 And if a woman shalt
   carried ahau? of win: Ines whicas
@@ -204,6 +208,7 @@ And the blood of the
 turtledove, or
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   said, Thy ie t
   e tion ics teaieh ne
@@ -219,6 +224,7 @@ fire to me, saving. The LORD Biana
 heeds not the voice of sinners.
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   35:14 ye shal sve threctitle
   9:19 But ale ithe prnes sat Â‘unt
@@ -240,6 +246,7 @@ council of the children of Israel: howbeit
 the remnant of the children of Israel
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   7:25 And row, C LORD Gd, tte: ward
   8:8 And iii ssooasawaiaiieahait h
@@ -259,12 +266,13 @@ was exer thefritt an mAehrainoith=
 man'hiss ricahtamuinmiess erac hss
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   1:22 Fo, Dani wentt. te aed
   3:02 aH
-  € appronted siiage=
+  ? appronted siiage=
   from. Bgypt, trom thie
-  3:16 And thesrt te‘cie
+  3:16 And thesrt te?cie
   Sraeli far cweer card caerr. Ald aittt
   ffamd try sefimiii ft. @ bro
   peradiveniure tree piiiut 0!
@@ -289,6 +297,7 @@ and cast them into the fire, and
 burned them.
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   5:7 And the priests brought i
   pieces.
@@ -375,6 +384,7 @@ and all the congregation,
   insertion: off
 #+END_SRC
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   1:33 Refftantcod naam
   and favour. andÂ’ thy viiitetftrnini
@@ -399,6 +409,7 @@ neesd eldest willttcotgey gnv in tttncithtese
 Eom 0:Olic ternaareestarasts tuary; from
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   11:18 How stweensttinachiis
   reign, anm,
@@ -418,6 +429,7 @@ throne: the children of Israel shall wax
 strong, and there shall be no hostess;
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   18:13 Bnidthtiele Â“ennsthn mes
   be tne ereth thereof, ndia tumitr
@@ -446,6 +458,7 @@ sieetema toms LORD answered corruption.
 shall insreiahstre inna
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   1:22 And the likeiness of the
   woth, anntva tnt aaa
@@ -461,6 +474,7 @@ the same order, even the countess Anna,
 dowager of the country.
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   for tme bodde trens ornhaise mms
   understand: fir1 (Not tait war,
@@ -494,6 +508,7 @@ they have burnt it.
 ** GPT-3 Davinci
 Temperature 0.8
 
+*** Result
 #+BEGIN_SRC yaml -n :async :results verbatim code
   task: "correct the results of OCR"
   doc: "Given OCR results, correct them"
@@ -557,6 +572,7 @@ Temperature 0.8
   insertion: off
 #+END_SRC
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   9:21 And the prncÂ«essad uartttie
   israel, thirg'Tuoaiituthtistudsivihowanaid gp
@@ -579,6 +595,7 @@ While they burnt the bones of them
 that had hid treasures in the earth.
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   of the house of the .O8R? ard
   coutterr, ardilnis alte, enchii
@@ -623,6 +640,7 @@ went up into the ship
 
 *** With Spelling + Grammar correction
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   26:18 Andrh one (tahoe
   Febulun. and firtbihall neci.
@@ -658,6 +676,7 @@ and entreat thy favour upon us.
 To be admitted to live ten days in Jerusalem:
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   7:5'Anad | bido nalts
   mine inicuity,,
@@ -693,13 +712,14 @@ the right hand of the Father.
 The "Calvin translation"
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   3:11 The reistterof nietferrevand, inal thengs 9
-  4:1 Burtié fiparec oat oe elthar sims
+  4:1 Burti? fiparec oat oe elthar sims
   side far thy wrorectim,
-  y deliver tine ‘evheom==s
-  e land of Egrnt by theit armeer—
-  ¢ slheat, iatit men Doe
+  y deliver tine ?evheom==s
+  e land of Egrnt by theit armeer?
+  ? slheat, iatit men Doe
   the breedth thereof, and zo onift. ~
   the tivelie anndi
   nd: in nat
@@ -720,6 +740,7 @@ visit the judgments, thou shalt take notice
 of all the things
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   10:15 Thev are: sent. and
   thee? a ve
@@ -745,6 +766,7 @@ lord of thy servants, so should I teach
 sinners thy law.
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   28:15 And thneartte @ the'l
   5:11 Wawthem crmrthere neck utittt
@@ -769,6 +791,7 @@ nations.
 #+end_src
 
 *** Give GPT-3 Davinci no hint of KJV
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   19:33 Wheneaare ifDinietrus, a
   5:14 le ayisssll annniy thes tea
@@ -806,6 +829,7 @@ Lord, as becomes saints, and that you assist
 her.
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   18:31 And they set themun Mitb
   7:27 Ear hoc; Â© CORD.of fhasts: Â‘Go
@@ -827,6 +851,7 @@ is given for you: this do in remembrance of
 me.
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   28:25 For be hilar atanniv ocimvdo uocliiaygyry
   thy servant, and concern
@@ -856,6 +881,7 @@ the work, that it was Gibeonites, that they
 came in toiamme==
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   25:14 Nowiitcame topoiss. titie
   unto the kiimg ico iomaisci:
@@ -879,6 +905,7 @@ the earth before him; and he could not
 recover; for the earth swallowed them up.
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   10:15 Iffittre victed, woeunto mm
   the eas. trct the blee haa
@@ -909,6 +936,7 @@ repented neither in their hearts nor in their
 ways.
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   16:34 And trecanirairvw.iin thee =
   and the snge Gite: thtais tian
@@ -936,6 +964,7 @@ Neither shall many take a wife for her beauty
 is but a fading flower,
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   18:28 Beease he oraalerecch, am
   thongbopal herr
@@ -961,6 +990,7 @@ fallen asleep: and, as an instance of the
 strange force of imagination,
 #+end_src
 
+*** Result
 #+BEGIN_SRC text -n  :f penf -u pf-correct-the-results-of-ocr :async :results verbatim code
   Jeth a man:
   , 2 was much cishleased, a
@@ -1828,12 +1858,12 @@ d himail hat they
 41S0he imasahuna tn at nena tos wwepyys
 and saiduce bot dftithes
 forth the wind out
-Tew «
+Tew ?
 
 " oe
 enar vil an
 im, | foresaw the Eord atiwags
-iniouity, and dieof ‘ia ctreon; Tor
+iniouity, and dieof ?ia ctreon; Tor
 20:6 Annd or tca'shoir aos
 erit, anc vhen those srodd, th
 tin the:jlane eicmeain aa
@@ -1873,7 +1903,7 @@ the sia hunndted me hat ve
 
 unto te RDaid dotdatid pire :thiceemmas
 natiohs and their gods.
-the tcdtino’ sebrnim===s
+the tcdtino? sebrnim===s
 
 ke it
 he LORDAkth tdlen'm up. a
@@ -1882,7 +1912,7 @@ give him aiway a light, an
 these wads Core naw thanehae, ao
 
 rieart to nialke tolLard iuing
-keepest covenant, and thevest—
+keepest covenant, and thevest?
 of Cleedddomi, trevanctitinaiiir
 out of tles atnmmdozicnemte
 n the ark of the covenant of
@@ -1906,12 +1936,12 @@ hey:
 the burn offering ontinually mor
 fail thee aman iin np ssght Do
 seen without. And there it is
-im, 2!&° The cilaresn of Balhima
+im, 2!&? The cilaresn of Balhima
 d my laachitite
 _ the
 26:23 And thxheteete: tam
 ischief
-his «Her, sittac tttoacmems
+his ?Her, sittac tttoacmems
 11:3 Ye lewectreasi tte spt
 decaato ait aitaeasonnnesthem=s
 their prayer.
@@ -1920,7 +1950,7 @@ rs;anid trusyz wine
 judg nentinicitfinuitl mcmucittalliigo dissing
 from tievienedtat tia (bestia
 harlot, in that thau gunner =hre
-remenromecha ‘ht authtnotsns
+remenromecha ?ht authtnotsns
 that soiowmath anu you.
 ire.
 tween the-wo heaithns wittisme
@@ -1939,7 +1969,7 @@ d theit arsbecs, snd tiheim
 
 16:15 Ton thes htevis inv td
 s far from me
-e married ‘o
+e married ?o
 twice dead oncked up bu he cont
 ve in the light, that ye mary be
 was? 17:3 So there was Sal.
@@ -1954,12 +1984,12 @@ burnt offering, and a meat of
 ye chall oqaerven mehe===s
 e cities
 mr
-13:1 audélisaalicansauitinteatuhiusnitteions py.
+13:1 aud?lisaalicansauitinteatuhiusnitteions py.
 7:18 The vaiti tm Alto: eujatms
 ent onits oflermin hema
 untae
 was Laish at the frst
-thy servent, ard orceming ‘hisho
+thy servent, ard orceming ?hisho
 lucre,
 chest, that the Kng s ssrtve aind th
 nad of ltr aiaeie.
@@ -1972,7 +2002,7 @@ f hollrecs as tmeyy
 Jehotaaiante hii iii
 peonle said, Aven. andgpaseat the
 away
-nd cast ‘Arm
+nd cast ?Arm
 d to his
 ast of hisesine temead mitric
 
@@ -1999,7 +2029,7 @@ g, Fhaweocs he bana
 {will toncnoyes ise ine
 e, fet inracanha
 4102:18 This shall be written
-feet nrarm eieey/ € o ‘igi
+feet nrarm eieey/ ? o ?igi
 him m his
 trarwuasin anne
 3:9 Wha ever ff Gellit lotion tees
@@ -2010,11 +2040,11 @@ against the |: 2. Liceiaram==
 upon the ark of ne tetmomy, ofiif
 y iictorsiilaseritt
 not, trethecoedhsrooms
-r the Hg tae, éuvreatts
+r the Hg tae, ?uvreatts
 "
 
 **
-10:14 Evera inant , «dtsh
+10:14 Evera inant , ?dtsh
 flr dvgi!* am tall
 t hand, that sotuld rot be
 shall
@@ -2024,14 +2054,14 @@ ere shell thepe:tes pa
 r netgge to
 alm tretes, were
 5:9 And he ucced qin. Wrha: ss thm:
-Herng: ‘btisiabtcame
+Herng: ?btisiabtcame
 15:9 But in vain they do wars
 another, she cormnmitet adio
 s; 1:13 Faping waves of tie sem.
 the
 ivision anong the people bie
-, ¥@ Ought to be cuiet and to
-any other ath | our ‘te vrgcne ype
+, ?@ Ought to be cuiet and to
+any other ath | our ?te vrgcne ype
 lfilled all that was writt
 without law, lbeing not wit
 opte
@@ -2053,7 +2083,7 @@ for the. [Mhiiltttine:ssaids, lia
 137 And Fadsialt he enoit ofilcome
 but itl
 came to tthe Trcook becmr anc
-f Hoo: “ue ase
+f Hoo: ?ue ase
 
 Ara
 went outtetre he amy aacveary ans stiebge f
@@ -2061,9 +2091,9 @@ irmed to thyselfi thy
 frurttitnteitina
 OBRIES
 18:11 hd hesaid, inf aitentr. aine
-upon somemnuntceé, cittta
+upon somemnuntce?, cittta
 children.
-nteringt done cae’ t ate
+nteringt done cae? t ate
 let us take conncelicgetiner.
 25:14 Andilasiom pariem===s
 ith Gaviia three eajtment
@@ -2078,8 +2108,8 @@ children of Hiazghahm the eniidtir
 7:21 ib yatoioitaas
 3:18 And they shall heenker tatty:
 Israel and_icah: aardl |
-ey shalilél thi tities:
-10:13 And these thinar hast ‘fou. ©
+ey shalil?l thi tities:
+10:13 And these thinar hast ?fou. ?
 42:18 Hranry eficeisna dames
 whe then carmake: rontles azniim
 Jemnacdene hiigyie st eetames
@@ -2130,7 +2160,7 @@ k all thag tree crocats b times
 naan,wrich gralll be cities aif.
 i mrow therreforswemay nattkauch
 philistnes and tot soeiacs vaihailk viahinnyyy
-Who ann; Léroo OIF icinthe soos
+Who ann; L?roo OIF icinthe soos
 down: foiint too
 ereforeres:coctthiee anussaee
 t up the graven imag=: anc Jonat
@@ -2149,7 +2179,7 @@ people Israd to be a pe
 3:16 And the eruShatanss
 16:27 So he ett ithm=> before he
 stand ipomt tith nounsb taahere
-some valey, “hahe saict, tai
+some valey, ?hahe saict, tai
 8:20 In his days Edom reval
 the seailof cane auaccta:
 6:8 Ther | sert unto fm savints:
@@ -2160,7 +2190,7 @@ ngth fon thre =envnes: cece
 the gnawd
 of the house, into the most
 shoud net go with him to bata
-| yria seameup! aigzinést olin
+| yria seameup! aigzin?st olin
 4:11 The ule bon praheth for |!
 en of Ailltuaf:2E 8 Rae biililtem
 d, Gwe tit sik hes
@@ -2173,19 +2203,19 @@ hen he
 h the wwaiaahtttis ge
 95:44 \ickadness is imche mids
 10:7 Them. tbordsas isha
-11:9 And.. wwilboéienzrg ena
+11:9 And.. wwilbo?ienzrg ena
 and ye: s wetiiom= =
 nd the
 keep hiy veh
 his. sore reegisel [
-3:9 Mean ths. hrov vec ia hails of tthacane tr »
-flere aigic ‘venceo;tof 8 aljyiee
+3:9 Mean ths. hrov vec ia hails of tthacane tr ?
+flere aigic ?venceo;tof 8 aljyiee
 strancer rraeaf) d cer tiuhantd
 ay; first @ semmieiiten==s
 Moses
 say unto ao) cheir thagst@arems
 
-9:11 And hetenle, wie ‘tey tev 14;, fcliiveaygy gf
+9:11 And hetenle, wie ?tey tev 14;, fcliiveaygy gf
 hither
 him, Gah, etonus ithiol/mas
 ounder is
@@ -2197,12 +2227,12 @@ ere lifted
 9:27 Gaaaiss slat rath omens
 have es: am
 te that !vioibeth travaice the
-“<
+?<
 na downtr errlodsa. =
 
 10:13 Ard they brought youn
 ring stars, to whorr is recered thm
-spake Jesus, and departecd, and ¢
+spake Jesus, and departecd, and ?
 7:44 And some of then woulid
 notning rashly.
 yea and gourimyr itcy2. iazitmeiat
@@ -2224,7 +2254,7 @@ han,
 8:4 Tienrl Ittieweeder: d dtrae
 hat was found nthe noouns cttnee
 rds or spears:
-Ahimelieihthezcinc n atatér wes
+Ahimelieihthezcinc n atat?r wes
 nd agaiinss thet LARUicand simee
 hind sawed
 er was not with
@@ -2237,8 +2267,8 @@ LOR
 D,
 shall niet
 ted from under the hand cof
-cording” twieeaeai att
-There are ro cuth things ¢@anesia
+cording? twieeaeai att
+There are ro cuth things ?@anesia
 
 Fer their breithinertinronie
 26:15
@@ -2246,7 +2276,7 @@ thrnescoine aad
 21:22 Then. tantnibaom
 holy place,
 e; fell upron the cttes of Jicda.
-and they canmieto Ancar’ ard
+and they canmieto Ancar? ard
 ack of ure, ant thastniit iuma.
 
 at
@@ -2280,7 +2310,7 @@ Wride
 moreover also nv fish sthal net in
 turneth awes fozim hs vorlecias=
 ope thveeil 1s
-up over aganst them; ‘pr the
+up over aganst them; ?pr the
 israel, Tihnpent tirecrachanss
 aricihot # toszul lot cread selint, siilvoh nipy mtg
 east; amd they
@@ -2294,7 +2324,7 @@ have taken him; but no mam
 10:37 lor ye have nrougmt hithe
 allinto scocdinnmation
 " RIFE
-e, and Jdl him © a sepul
+e, and Jdl him ? a sepul
 Christ,! that I nijght gaim
 cats, with
 and liaicottiertce ipoetn
@@ -2302,7 +2332,7 @@ and liaicottiertce ipoetn
 38 Beside the sabbaths of the
 eones aad mireciihediif =
 35:15 Thesesivu Jiitie stttall lle
-9:26 This ve willl azo to ‘then, ve w
+9:26 This ve willl azo to ?then, ve w
 philistne: ard be amsvereralett reheinnan t!
 hithetis: }i@Adi tid sveae sams
 g, that Glaiad uior aiastiex=m
@@ -2318,7 +2348,7 @@ re the pnees; aatol [Here tinwas
 on
 
 Dy rae
-0:2i Md wien ‘hey laacts sioaid o paissmyy
+0:2i Md wien ?hey laacts sioaid o paissmyy
 and thou, LOR'D, act
 3:17 And fitosit eikems=s
 Asapihand his orethrem, to mriitce
@@ -2339,7 +2369,7 @@ whelnr crecerttrsed syrod
 Hagah, the children cf Simdihaes,
 of thy hoi
 king ooff Eigyicrt, anaye. stall say
-36:9 Jeboiiachiin was égih
+36:9 Jeboiiachiin was ?gih
 7:4 Andd croc szias es
 is with theee
 or dieatt, sa pur reagiahb
@@ -2364,7 +2394,7 @@ therm arooite ctonercf ha itor of GEHto, yy
 4:96 Jesos aiveseeauatial btham=s
 ro
 
-mage: fir hl. «.aten mage
+mage: fir hl. ?.aten mage
 the LORD cer hosts our God.
 hope: B27 Because thon viitt rat
 s that
@@ -2380,7 +2410,7 @@ should touch
 blacliness of darintss for we:
 hice himseif ftom then.
 laid hands on
-r¢ these men, wnicin zroneither
+r? these men, wnicin zroneither
 5:13 to ary. warrmy cnaad heitila
 chre.
 thern that are without lam
@@ -2427,7 +2457,7 @@ herubims; 3:3 For the cherubi
 Samaria evien uirto Bethinmom, can
 destonecaallll the spraseer
 4:12 Now etking wat ctrefiie [rra o
-the children of Kianta:, 22° 3 Tm
+the children of Kianta:, 22? 3 Tm
 74:18 FOLGINK, na hemes
 urito him, tihe LCOID Gnd cr the. ken
 t years old when he {pea
@@ -2447,7 +2477,7 @@ ervert ail lszatyian
 tet of thesirif tra
 
 5:25 Agreewiitittithaissaa seams
-ifsame éav, that tre LLOIN ad fonr
+ifsame ?av, that tre LLOIN ad fonr
 18:41 Fotth: Arh ao: aoiestee
 25:23 Thou shalt d&o: niadiss tarile
 d heaiedhen itrat
@@ -2457,7 +2487,7 @@ AS
 is falsehood, and
 23:37 Vho. Fe avt
 leave my soul in heff, nertreivawit
-he hath comniitef, acic¢sotr the
+he hath comniitef, acic?sotr the
 e fieva.
 e was inthe
 fthe sves munonnb sha
@@ -2472,7 +2502,7 @@ them; and his disciples reb
 him.
 robbers
 fet him. priay Ss avywonnry Siem
-“ibe
+?ibe
 13:30 Dus Gad ws mim f
 9:22 To the wealk becarre li a
 hyssop, and sprinkled both th
@@ -2483,7 +2513,7 @@ Il abideen viwatoe stoop
 nof
 be uper uis, baasse tf ttle: td. wh
 13:5 And the mlsine gaheed tanesve itrigeit ith
-ORD,, bot ‘tho bis sdensrSet
+ORD,, bot ?tho bis sdensrSet
 11:15 Ad he wetasie nteriemas
 ers agaim wincethe (ningziftt tonie
 
@@ -2496,7 +2526,7 @@ e ejee
 taro. hurddiea:
 gohn i ace.
 ? ~e-
-@N i Csi hth ites “misu 3/5 9
+@N i Csi hth ites ?misu 3/5 9
 7:25 And. row, DISRDD ial
 Miiattuhinaiesm aitlobass=
 every dzy'ss work \equirred!:6226
@@ -2508,10 +2538,10 @@ nd o} hasieathiaaide meuwdr
 
 reiinigh trem: eevaruritcein
 ch thou
-ns and -brethrairm, “trnac:horm
+ns and -brethrairm, ?trnac:horm
 threshiepginti aitit t isie girai
 ms spread
-d smote three ‘theusmna it them,
+d smote three ?theusmna it them,
 # the peogple fi am anmnn the
 ught tore mt mnecar caived.
 wo
@@ -2531,8 +2561,8 @@ n from the height of his sanc
 
 d when. he eesgic ain
 3:12 Fheytold wu iliovthhod: ud! cnuaahtrps
-had sad thutocaal! £ flnco ttre te; ome
-thy lovirs, ard tect «wm that.
+had sad thutocaal! ? flnco ttre te; ome
+thy lovirs, ard tect ?wm that.
 _ whilee tho nilitut she
 
 at sihshnds lite:
@@ -2575,7 +2605,7 @@ g, Eet we tlticitithmo ms
 children
 to the tribe of Dan until the da
 e house of tha snvantiBland! ree
-nd saidi unntoitinn £6léckis toon
+nd saidi unntoitinn ?6l?ckis toon
 did the work, that had the awesiigitt
 every mans share, aidd thas
 of Jeburene vasiswe ttho the
